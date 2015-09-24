@@ -1,6 +1,15 @@
 SCAMP
 =====
 
+Perceived Difficiencies
+-----------------------
+
+ - [ ] No NACKs, individual packets are not acknowledged
+ - [ ] Documentation confusion on request_id and 
+ - [ ] File-based discovery depends on daemon
+  - [ ] Could we leverage coordination services like etcd
+ - [ ] Does not leverage security services like vault
+
 The Service Oriented Architecture (SOA) Overview
 ------------------------------------------------
 
